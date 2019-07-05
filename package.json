@@ -1,7 +1,7 @@
 {
-  "name": "fantasy-league-api",
+  "name": "es6-babel",
   "version": "1.0.0",
-  "description": "Rest API for cricket fantasy league",
+  "description": "Express starter kit with ES2017+ support, testing, linting, and code coverage",
   "main": "index.js",
   "dependencies": {
     "@hapi/joi": "^15.0.3",
@@ -32,12 +32,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salmaan72/fantasy-league-api.git"
+    "url": "git+https://github.com/salmaan72/es6-babel.git"
   },
   "author": "Salmaan Ahmed",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/salmaan72/fantasy-league-api/issues"
+    "url": "https://github.com/salmaan72/es6-babel/issues"
   },
-  "homepage": "https://github.com/salmaan72/fantasy-league-api#readme"
+  "homepage": "https://github.com/salmaan72/es6-babel#readme"
 }
